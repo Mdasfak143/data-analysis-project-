@@ -2,7 +2,7 @@
 
 This project provides an in-depth sales analysis of **Apna Bazar** for the year 2022. Using Excel, a comprehensive report has been created to help understand customer purchasing behaviors, sales trends, and key metrics. The goal is to provide valuable insights to help **Apna Bazar** grow its sales in 2023.
 
-![sales dashboard image](https://github.com/user-attachments/assets/f4c234c2-d719-46c6-ad0e-756bd2fe6b4d)
+
 
 ## Table of Contents
 - [Objective](#objective)
@@ -46,8 +46,10 @@ The following key questions were addressed in this project through a detailed an
 ## Interactive Board
 
 An **interactive sales dashboard** is created using Excel, featuring various pivot tables and charts for dynamic data analysis. The dashboard allows users to filter and explore:
-[sales analysis project excel MADE BY ASFAK.xlsx](https://github.com/user-attachments/files/18320182/sales.analysis.project.excel.MADE.BY.ASFAK.xlsx)
 
+
+![sales dashboard image](https://github.com/user-attachments/assets/f4c234c2-d719-46c6-ad0e-756bd2fe6b4d)
+-Dashboard link-https://1drv.ms/x/c/deb49c9cc4f50a87/EUzVErHDEGhBh6dekWBtZEIB_EcXocWdddBD7R4srtd2Hw
 - Sales and order trends over time
 - Gender-based purchase comparisons
 - Age and gender distribution of orders
@@ -80,7 +82,7 @@ To maximize sales growth in 2023, **Apna Bazar** should target the following dem
 - Focus marketing efforts on **Amazon**, **Flipkart**, and **Myntra** as these channels are the highest sales contributors.
 - Utilize **ads, offers, and coupons** targeted towards this specific customer segment.
 
-By refining marketing strategies and offering promotions targeted at the right customer demographic, **Apna Bazar** can achieve sustained growth and improved sales in the upcoming year.
+By refining marketing strategies and offering promotions targeted at the right customer demographic, **Apna Bazar** can achieve sustained growth and improved sales in the upcoming year.[sales analysis project excel MADE BY ASFAK.xlsx](https://github.com/user-attachments/files/18320182/sales.analysis.project.excel.MADE.BY.ASFAK.xlsx)
 
 
 
