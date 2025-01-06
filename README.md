@@ -46,6 +46,7 @@ The following key questions were addressed in this project through a detailed an
 ## Interactive Board
 
 An **interactive sales dashboard** is created using Excel, featuring various pivot tables and charts for dynamic data analysis. The dashboard allows users to filter and explore:
+[sales analysis project excel MADE BY ASFAK.xlsx](https://github.com/user-attachments/files/18320182/sales.analysis.project.excel.MADE.BY.ASFAK.xlsx)
 
 - Sales and order trends over time
 - Gender-based purchase comparisons
@@ -80,5 +81,8 @@ To maximize sales growth in 2023, **Apna Bazar** should target the following dem
 - Utilize **ads, offers, and coupons** targeted towards this specific customer segment.
 
 By refining marketing strategies and offering promotions targeted at the right customer demographic, **Apna Bazar** can achieve sustained growth and improved sales in the upcoming year.
+
+
+
 
 
